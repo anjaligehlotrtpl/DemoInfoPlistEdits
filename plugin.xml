@@ -41,6 +41,11 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+                
+                <key>NSPhotoLibraryAddUsageDescription</key>
+                <string>We require access to your photo library to choose your profile picture.</string>
+                <key>NSPhotoLibraryUsageDescription</key>
+                <string>We require access to your photo library to choose your profile picture.</string>
             </array>
         </config-file>
         
